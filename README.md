@@ -19,3 +19,6 @@ npm install
 ```
 npm start
 ```
+
+Click Here to see the live site
+### [Live Site](http://colorapp.surge.sh/)
