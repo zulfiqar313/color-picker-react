@@ -1,5 +1,7 @@
 # Color Picker App
 
+### [Live Site](http://colorapp.surge.sh/)
+
 ![colorapp](https://github.com/zulfiqar313/color-picker-react/assets/69974518/130759cf-4281-41d5-81d8-3b3d88d0c9d8)
 
 
@@ -20,5 +22,4 @@ npm install
 npm start
 ```
 
-Click Here to see the live site
-### [Live Site](http://colorapp.surge.sh/)
+
